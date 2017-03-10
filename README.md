@@ -8,6 +8,6 @@ Completely re usable, just send the name of the html template that will be displ
 Example template
 
 ```
-<p> Share data from parent scope: {{vm.data.message}}</p>
+<p> Shared data from parent scope: {{vm.data.message}}</p>
 
 ```
